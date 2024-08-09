@@ -2,7 +2,7 @@
 
 ### Projeto faz parte da entrega de um trabalho do Bootcamp Microsoft Copilot AI da DIO.
 
-![Projeto COLAB](https://github.com/wfilho/ia_tensorflow/blob/main/AI2.gif)
+![Projeto COLAB](https://github.com/wfilho/ia_tensorflow/blob/main/output/AI2.gif)
 
 ### Ajustes e melhorias
 
